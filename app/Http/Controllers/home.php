@@ -13,7 +13,7 @@ class home extends Controller
 
     public function store(Request $request){
         $this->validate($request,[
-            'file' => 'required|max:4042'
+            'file' => 'required|max:2048'
         ]);
         $file = $request->file('file');
         $nama_file = time()."_".$file->getClientOriginalName();
