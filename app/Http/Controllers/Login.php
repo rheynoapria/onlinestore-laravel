@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Session;
 class Login extends Controller
 {
     public function index(){
-        return view('Login');
+        return view('pages.Login');
     }
 
     public function Register(Request $request){

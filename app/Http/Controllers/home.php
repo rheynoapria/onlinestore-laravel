@@ -8,7 +8,7 @@ use App\m_barang;
 class home extends Controller
 {
     public function index(){
-        return view('home');
+        return view('pages.home');
     }
 
     public function store(Request $request){

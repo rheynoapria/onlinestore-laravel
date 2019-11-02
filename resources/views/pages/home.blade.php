@@ -17,6 +17,7 @@
 								<h2>$56</h2>
 								<p>Lenovo ThinkPad X280</p>
 								<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+								<a href="detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 							</div>
 						</div>
 				</div>
@@ -42,6 +43,7 @@
 							<h2>$56</h2>
 							<p>Lenovo Legion Y700</p>
 							<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+							<a href="detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 						</div>
 					</div>
 				</div>
@@ -67,6 +69,7 @@
 							<h2>$56</h2>
 							<p>Lenovo Yoga 710</p>
 							<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+							<a href="/detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 						</div>
 					</div>
 				</div>
@@ -92,6 +95,7 @@
 							<h2>$56</h2>
 							<p>Acer Predator Triton 900</p>
 							<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+							<a href="detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 						</div>
 					</div>
 					<img src="/BahanStudy/images/home/new.png" class="new" alt="" />
@@ -118,6 +122,7 @@
 							<h2>$56</h2>
 							<p>Lenovo Yoga 920</p>
 							<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+							<a href="detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 						</div>
 					</div>
 					<img src="/BahanStudy/images/home/sale.png" class="new" alt="" />
@@ -144,6 +149,7 @@
 							<h2>$56</h2>
 							<p>Acer Aspire E-1431</p>
 							<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+							<a href="detail-item" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Details</a>
 						</div>
 					</div>
 				</div>

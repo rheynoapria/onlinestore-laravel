@@ -17,3 +17,4 @@ Route::get('/login','Login@index');
 Route::post('/Register','Login@Register');
 Route::post('/Signin','Login@Login');
 Route::get('/logout','Login@Logout');
+Route::get('/detail-item','detail@index');
