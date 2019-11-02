@@ -7,7 +7,11 @@
 #
 # Host: 127.0.0.1 (MySQL 5.5.5-10.4.8-MariaDB)
 # Database: db_onlinestore
+<<<<<<< HEAD
 # Generation Time: 2019-11-02 03:51:25 +0000
+=======
+# Generation Time: 2019-11-02 03:55:22 +0000
+>>>>>>> staging
 # ************************************************************
 
 
@@ -35,7 +39,11 @@ CREATE TABLE `tbl_barang` (
   `spesifikasi` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
   `gambar` char(250) COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`id_barang`)
+<<<<<<< HEAD
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+=======
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+>>>>>>> staging
 
 LOCK TABLES `tbl_barang` WRITE;
 /*!40000 ALTER TABLE `tbl_barang` DISABLE KEYS */;
@@ -102,7 +110,11 @@ CREATE TABLE `tbl_users` (
   `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`id_user`)
+<<<<<<< HEAD
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+=======
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+>>>>>>> staging
 
 LOCK TABLES `tbl_users` WRITE;
 /*!40000 ALTER TABLE `tbl_users` DISABLE KEYS */;
